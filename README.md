@@ -1,3 +1,3 @@
-#Code Quality
+# Code Quality Enabled
 
-https://www.code-inspector.com/project/20608/score/svg
+[![GitHub Super-Linter](https://github.com/VishalCodes/NodeJs/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
